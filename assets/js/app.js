@@ -4,10 +4,10 @@ app.controller('MainController', ['$scope', function($scope) {
     $scope.experiences =
     [
         {
-            title: 'Volunteer Versus',
-            text: '"Which group volunteered the most?" "Who has the most hours?" These questions have come up often over the years in my experiences volunteering. Inspired by a strong rivalry between two famous volunteering organizations as well as the inconveniences of viewing volunteering records, I sought out to design an app that would simplify managing records as well as bring stats-based competition into volunteering. The result is Volunteer Versus! Doing the project was very fun as I really got to use Ruby on Rails as well as multiple other related tools. Worked across the stack; did this solo!',
+            title: 'GradeCentral',
+            text: 'S'
             image: 'assets/img/vv.png',
-            link: 'https://volunteerversus.herokuapp.com'
+            link: 'https://github.com/arhubdulal/GradeCentral'
         },
         {
             title: 'Gitlet',

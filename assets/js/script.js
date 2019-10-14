@@ -1,4 +1,4 @@
-/* User experience animations. Dependencies include the jQuery library, Waypoints plugin and Visibility plugin. - Shafqat Dulal */
+
 $(document).ready(function() {
     $('.background').css('height', $(window).height() + 'px');
     fadeInIntro();
