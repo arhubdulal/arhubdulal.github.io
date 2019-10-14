@@ -1,4 +1,4 @@
-sdulal.github.io
+arhubdulal.github.io
 =================
 
 This is my personal website!
