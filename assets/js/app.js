@@ -4,10 +4,10 @@ app.controller('MainController', ['$scope', function($scope) {
     $scope.experiences =
     [
         {
-            title: 'GradeCentral',
-            text: 'Ever wondered how you compared to other students in your class? Further than that, wondering what your projected grade is for the time being? These are questions that U.C Berkeley students have on a day-to-day basis! My roommate and I decided to address this question, creating a web app that can determine ones standing in a U.C Berkeley course, utilizing database SQL integration, parsing, and an interactive UI' ,
+            title: 'Volunteer Versus',
+            text: '"Which group volunteered the most?" "Who has the most hours?" These questions have come up often over the years in my experiences volunteering. Inspired by a strong rivalry between two famous volunteering organizations as well as the inconveniences of viewing volunteering records, I sought out to design an app that would simplify managing records as well as bring stats-based competition into volunteering. The result is Volunteer Versus! Doing the project was very fun as I really got to use Ruby on Rails as well as multiple other related tools. Worked across the stack; did this solo!',
             image: 'assets/img/vv.png',
-            link: 'https://github.com/arhubdulal/GradeCentral'
+            link: 'https://volunteerversus.herokuapp.com'
         },
         {
             title: 'Gitlet',
