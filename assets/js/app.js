@@ -6,7 +6,7 @@ app.controller('MainController', ['$scope', function($scope) {
         {
             title: 'GradeCentral',
             text: 'Ever wondered how you compared to other students in your class? Further than that, wondering what your projected grade is for the time being? These are questions that U.C Berkeley students have on a day-to-day basis! My roommate and I decided to address this question, creating a web app that can determine ones standing in a U.C Berkeley course, utilizing database SQL integration, parsing, and an interactive UI.',
-            image: 'assets/img/vv.png',
+            image: '#',
             link: 'https://github.com/arhubdulal/GradeCentral'
         },
         {
