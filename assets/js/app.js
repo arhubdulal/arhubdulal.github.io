@@ -58,7 +58,7 @@ app.controller('MainController', ['$scope', function($scope) {
             name: 'NBA',
             text: 'Huge NBA fan! Played basketball for all of my life, my favorite player is Russell Westbrook and my team is now the Houston Rockets!',
             link: 'http://nba.com/',
-            image: 'assets/img/idownloadblog.png'
+            image: 'assets/img/NBA.png'
         },
         {
             name: 'IGN',
