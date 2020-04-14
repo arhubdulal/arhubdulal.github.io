@@ -4,6 +4,12 @@ app.controller('MainController', ['$scope', function($scope) {
     $scope.experiences =
     [
         {
+          title: 'DermaVigil',
+          text: 'An iOS App built on SwiftUI that tracks user skin measurements periodically using a Bluetooth low Energy and a corresponding peripheral. It has a fully functional login and sign up screen using Firebase as well as a database of stored User Profile preferences. In order to build this project, I taught myself SwiftUI and basic iOS development using XCode. This App was 100% created by myself, and it stands to be my first application of mobile programming!',
+          image: 'assets/img/DermaVigil.png',
+          link: 'https://github.com/arhubdulal/DermaVigil'
+        },
+        {
             title: 'GradeCentral',
             text: 'Ever wondered how you compared to other students in your class? Further than that, wondering what your projected grade is for the time being? These are questions that U.C Berkeley students have on a day-to-day basis! My roommate and I decided to address this question, creating a web app that can determine ones standing in a U.C Berkeley course, utilizing database SQL integration, parsing, and an interactive UI.',
             image: 'assets/img/smartPrice.png',
