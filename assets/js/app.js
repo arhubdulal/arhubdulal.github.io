@@ -4,10 +4,10 @@ app.controller('MainController', ['$scope', function($scope) {
     $scope.experiences =
     [
         {
-          title: 'DermaVigil',
-          text: 'An iOS App built on SwiftUI that tracks user skin measurements periodically using a Bluetooth low Energy and a corresponding peripheral. It has a fully functional login and sign up screen using Firebase as well as a database of stored User Profile preferences. In order to build this project, I taught myself SwiftUI and basic iOS development using XCode. This App was 100% created by myself, and it stands to be my first application of mobile programming!',
-          image: 'assets/img/DermaVigil.png',
-          link: 'https://github.com/arhubdulal/DermaVigil'
+            title: 'DermaVigil',
+            text: 'An iOS App built on SwiftUI that tracks user skin measurements periodically using a Bluetooth low Energy and a corresponding peripheral. It has a fully functional login and sign up screen using Firebase as well as a database of stored User Profile preferences. In order to build this project, I taught myself SwiftUI and basic iOS development using XCode. This App was 100% created by myself, and it stands to be my first application of mobile programming!',
+            image: 'assets/img/DermaVigil.png',
+            link: 'https://github.com/arhubdulal/DermaVigil'
         },
         {
             title: 'GradeCentral',
@@ -23,7 +23,7 @@ app.controller('MainController', ['$scope', function($scope) {
         },
         {
             title: 'This Website',
-            text: 'This very site stands as a project! I intend to showcase the design skills that I have, as well as highlight some of the things I have done and picked up over time. The usual elements of front-end development are involved—HTML, CSS and JavaScript. Such libraries and frameworks as jQuery and AngularJS are used for some animations and conveniences. Of course, the site is technically always a work in progress since I will document projects and other things to come. Even at that, there is a lot of room for this site to grow!',
+            text: 'This very site stands as a project! I intend to showcase the design skills that I have, as well as highlight some of the things I have done and picked up over time. The usual elements of front-end development are involved—HTML, CSS and JavaScript. Such libraries and frameworks as jQuery and AngularJS are used for some animations and conveniences. Of course, the site is technically always a work in progress since I will document projects and other things to come.',
             image: 'assets/img/this.png',
             link: '#'
         },
