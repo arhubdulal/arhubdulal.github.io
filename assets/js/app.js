@@ -39,6 +39,12 @@ app.controller('MainController', ['$scope', function($scope) {
             image: 'assets/img/oppia.png',
             link: 'https://github.com/arhubdulal/Animated-Solar-System'
         },
+        {
+            title: "Multi Agent Search",
+            text: "This project stands to be my first application of Artificial Intelligence! I designed Pacman agents including ghosts that function off minimax search, expectimax search, and alpha beta pruning. I designed a more efficient evaluation function as well. During the process of coding this project, I learned how AI fundamentally works, and how many things actually require AI to work. This definitely was fun, as I could see pacman working to maximize its utility whilst the ghosts tried to minimize, and I could watch the battle unfold!",
+            image: 'assets/img/search.png',
+            link: 'https://github.com/arhubdulal/Multi-Agent-Search'
+        },
     ];
     $scope.interests =
     [
