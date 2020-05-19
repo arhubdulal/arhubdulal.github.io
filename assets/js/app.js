@@ -22,16 +22,16 @@ app.controller('MainController', ['$scope', function($scope) {
             link: 'https://github.com/arhubdulal/SmartPrice'
         },
         {
-            title: 'Machine Learning'
-            text: 'My first time experimenting with Machine Learning and neural networks! In the project, I implemented a binary perceptron, then started to work with non-linear regression techniques, implementing a neural network to approximate sin(x) over a period, to classify handwritten digits from the MNIST dataset, and to identify the language of a given piece of text. I had a lot of fun working with neural networks and I hope to continue this work in the future!'
+            title: 'Machine Learning',
+            text: 'My first time experimenting with Machine Learning and neural networks! In the project, I implemented a binary perceptron, then started to work with non-linear regression techniques, implementing a neural network to approximate sin(x) over a period, to classify handwritten digits from the MNIST dataset, and to identify the language of a given piece of text. I had a lot of fun working with neural networks and I hope to continue this work in the future!',
             image: 'assets/img/gitlet.png',
             link: 'https://github.com/arhubdulal/Machine-Learning'
-        }
+        },
         {
             title: 'This Website',
             text: 'This very site stands as a project! I intend to showcase the design skills that I have, as well as highlight some of the things I have done and picked up over time. The usual elements of front-end development are involved—HTML, CSS and JavaScript. Such libraries and frameworks as jQuery and AngularJS are used for some animations and conveniences. Of course, the site is technically always a work in progress since I will document projects and other things to come.',
             image: 'assets/img/this.png',
-            link: 'https://github.com/arhubdulal/arhubdulal.github.io'
+            link: 'https://github.com/arhubdulal/arhubdulal.github.io',
         },
         {
             title: 'Roguelike Game',
