@@ -24,7 +24,7 @@ app.controller('MainController', ['$scope', function($scope) {
         {
             title: 'Machine Learning',
             text: 'My first time experimenting with Machine Learning and neural networks! In the project, I implemented a binary perceptron, then started to work with non-linear regression techniques, implementing a neural network to approximate sin(x) over a period, to classify handwritten digits from the MNIST dataset, and to identify the language of a given piece of text. I had a lot of fun working with neural networks and I hope to continue this work in the future!',
-            image: 'assets/img/gitlet.png',
+            image: 'assets/img/ml.png',
             link: 'https://github.com/arhubdulal/Machine-Learning'
         },
         {
